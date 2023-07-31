@@ -1,6 +1,6 @@
 # 交易体系
 
-## Introduction
+## 简介
 
 This is 'My Project Title', a software solution designed to solve XYZ problem. This project was built using `insert programming languages or tools here` and follows certain methodologies and workflows to ensure a smooth development process and efficient solutions.
 
@@ -8,7 +8,7 @@ Our project aims to `insert project goals here`. We have designed a workflow tha
 
 The above diagram represents the workflow of this project. 
 
-## Usage
+## 使用方法
 
 Here are the steps on how to use or contribute to 'My Project Title':
 
