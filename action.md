@@ -8,6 +8,10 @@
 * b. 每周复盘
   ### 1. 下周关键日期，重要财报日，经济数据
 
-参考 [earning hub] 了解更多信息。
+* 参考 [earning hub] 财报。
+* 参考 [应维] 经济数据。
 
 [earning hub]: https://earningshub.com/
+[应维]: https://cn.investing.com/economic-calendar/
+
+
