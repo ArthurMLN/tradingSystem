@@ -9,9 +9,20 @@
   ### 1. 下周关键日期，重要财报日，经济数据
 
 * 参考 [earning hub] 财报。
-* 参考 [应维] 经济数据。
-
+* 参考 [英为财情] 经济数据。
+* 参考 [散户投资情绪] 散户投资人情绪。
 [earning hub]: https://earningshub.com/
-[应维]: https://cn.investing.com/economic-calendar/
+[英为财情]: https://cn.investing.com/economic-calendar/
+[散户投资情绪]: https://www.aaii.com/sentimentsurvey
+  ### 2. 持仓股和大盘分析，周线收线，对比3k线位置，3大指标
+  ### 3. 上周交易结果分析
+  
+
+
+* c. 每月复盘
+* ### 1. 下个月关键日期
+* ### 2. 月线的收线分析
+* ### 3. 大周期经济数据，巴菲特指标
+*     
 
 
